@@ -1,24 +1,28 @@
-# Hi, I'm Rawan 👋
+# HR Employee Attrition Analysis 📊
 
-### Data Analyst | HR Analytics | Python | SQL | Visualization
+**Full HR-Analytics Case Study: Identifying Attrition Drivers & Retention Strategies**
 
-I am passionate about using data to understand workforce behavior, improve decision-making, and drive business impact.  
-My expertise includes:
+---
 
-- Exploratory Data Analysis (EDA)
-- HR Analytics & Attrition Modeling
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- Data Feature Engineering
-- Dashboarding and Reporting
-- Presenting insights with clarity and business focus
+## 🧩 Overview
 
-### 🔍 Featured Project
-**HR Employee Attrition Analysis**  
-A full case study analyzing the drivers of employee turnover using EDA, visualizations, and insights.  
-Includes: data cleaning, feature engineering, attrition risk segmentation, and recommendations.
+This repository contains a comprehensive HR analytics case study based on the IBM “Employee Attrition & Performance” dataset. The aim is to analyze patterns of employee turnover, identify key risk factors, and deliver actionable recommendations for improving retention strategies.
 
-👉 *Link will be added once you upload the project.*
+---
 
-### 📫 Connect with me
-LinkedIn: https://www.linkedin.com/in/rawan-alhammad-bab985125
+## 🔍 What This Project Includes
+
+- Data cleaning & preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature engineering (e.g. age groups, tenure buckets)  
+- Attrition analysis across demographics, job roles, , , and   
+- Data visualizations: charts, distribution plots  
+- Summary insights and HR-oriented recommendations  
+
+---
+
+## 🛠️ How to Use / Run
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/your-username/HR-Employee-Attrition-Analysis.git
