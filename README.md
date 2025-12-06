@@ -1,28 +1,72 @@
-# HR Employee Attrition Analysis 📊
+<!-- Banner -->
+<p align="center">
+  <img src="images/banner.png" alt="Rawan Alhammad - Data Analyst" width="90%">
+</p>
 
-**Full HR-Analytics Case Study: Identifying Attrition Drivers & Retention Strategies**
+# Hi, I'm Rawan 👋  
+### Data Analyst | HR Analytics | Python | SQL | Visualization  
 
----
-
-## 🧩 Overview
-
-This repository contains a comprehensive HR analytics case study based on the IBM “Employee Attrition & Performance” dataset. The aim is to analyze patterns of employee turnover, identify key risk factors, and deliver actionable recommendations for improving retention strategies.
-
----
-
-## 🔍 What This Project Includes
-
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature engineering (e.g. age groups, tenure buckets)  
-- Attrition analysis across demographics, job roles, , , and   
-- Data visualizations: charts, distribution plots  
-- Summary insights and HR-oriented recommendations  
+I’m a data analyst passionate about understanding workforce behavior, identifying patterns, and transforming raw data into actionable insights.  
+My focus is HR analytics, exploratory data analysis (EDA), and data visualization using Python.
 
 ---
 
-## 🛠️ How to Use / Run
+## 🧠 About Me
+- Data enthusiast with strong analytical thinking  
+- Skilled in storytelling with data and communicating insights clearly  
+- Interested in workforce analytics, attrition modeling, and decision intelligence  
+- Currently building a portfolio of real-world analytics projects  
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/HR-Employee-Attrition-Analysis.git
+---
+
+## 🛠️ Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- **Data Analysis:** EDA, feature engineering, segmentation, data cleaning  
+- **Visualization:** Matplotlib, Tableau, Power BI  
+- **Databases:** SQL  
+- **Other:** Jupyter Notebook, Version Control (Git/GitHub)
+
+---
+
+## 🔧 Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Project
+### **HR Employee Attrition Analysis**
+A full case study exploring the key drivers of employee turnover using Python, EDA, and data visualization.
+
+**Includes:**
+- Data cleaning & preparation  
+- Attrition segmentation  
+- Business-travel impact  
+- Job-role level analysis  
+- Tenure & age patterns  
+- Visualization dashboards  
+
+📌 *Project link will be added after uploading the repository.*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RawanMH-1125&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawanMH-1125&layout=compact&theme=tokyonight" width="40%">
+</p>
+
+---
+
+## 📫 Connect With Me
+LinkedIn: **[Rawan Alhammad](https://www.linkedin.com/in/rawan-alhammad-bab985125/)**  
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
