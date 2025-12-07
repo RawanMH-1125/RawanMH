@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="images/banner.png" alt="Rawan Alhammad - Data Analyst" width="90%">
+  <img src="https://raw.githubusercontent.com/RawanMH-1125/RawanMH/main/banner.png" width="100%">
 </p>
 
 # Hi, I'm Rawan 👋  
@@ -52,14 +51,20 @@ A full case study exploring the key drivers of employee turnover using Python, E
 - Tenure & age patterns  
 - Visualization dashboards  
 
-📌 *Project link will be added after uploading the repository.*
-
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RawanMH-1125&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawanMH-1125&layout=compact&theme=tokyonight" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=RawanMH-1125&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RawanMH-1125&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawanMH-1125&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
