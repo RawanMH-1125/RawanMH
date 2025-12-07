@@ -20,9 +20,9 @@ My focus is HR analytics, exploratory data analysis (EDA), and data visualizatio
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib)  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Data Analysis:** EDA, feature engineering, segmentation, data cleaning  
-- **Visualization:** Matplotlib, Tableau, Power BI  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Databases:** SQL  
 - **Other:** Jupyter Notebook, Version Control (Git/GitHub)
 
