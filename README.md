@@ -3,10 +3,10 @@
 </p>
 
 # Hi, I'm Rawan 👋  
-### Data Analyst | HR Analytics | Python | SQL | Visualization  
+### Data Analyst | Databricks | Python | SQL | Visualization  
 
 I’m a data analyst passionate about understanding workforce behavior, identifying patterns, and transforming raw data into actionable insights.  
-My focus is HR analytics, exploratory data analysis (EDA), and data visualization using Python.
+My focus is HR analytics, exploratory data analysis (EDA), and data visualization using Python and Tableau.
 
 ---
 
@@ -19,11 +19,11 @@ My focus is HR analytics, exploratory data analysis (EDA), and data visualizatio
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Data Analysis:** EDA, feature engineering, segmentation, data cleaning  
-- **Visualization:** Matplotlib, Seaborn, Power BI  
-- **Databases:** SQL  
-- **Other:** Jupyter Notebook, Version Control (Git/GitHub)
+- **Programming:** Python  
+- **Data Analysis:** EDA, feature engineering, segmentation 
+- **Visualization:** Matplotlib, Tableau , Power BI  
+- **Databases:** SQL 
+- **Other:** Jupyter Notebook, Databricks
 
 ---
 
@@ -32,7 +32,6 @@ My focus is HR analytics, exploratory data analysis (EDA), and data visualizatio
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
