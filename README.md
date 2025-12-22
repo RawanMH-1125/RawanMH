@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RawanMH-1125/RawanMH/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/RawanMH-1125/RawanMH/main/img.jpeg" width="100%" />
+
 </p>
 
 # Hi, I'm Rawan 👋  
